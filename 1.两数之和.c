@@ -5,8 +5,11 @@
  */
 
 // @lc code=start
-
+// prepared
 #include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <string.h>
 
 /**
  * Note: The returned array must be malloced, assume caller calls free().
